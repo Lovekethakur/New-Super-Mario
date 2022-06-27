@@ -1426,7 +1426,7 @@
 	data:
 	[
 	['' , '' , '' , '' , '' , '' , '' , '' , '' , '' , '' , '' , 'stone' , '' , ''],
-	['' , 'mushroombox' , '' , '' , '' , 'brown_block' , '' , '' , '' , '' , '' , '' , 'stone' , '' , ''],
+	['' , 'mushroombox' , '' , '' , '' , 'brown_block' , '' , '' , '' , '' , '' , 'mario' , 'stone' , '' , ''],
 	['' , '' , '' , '' , '' , 'brown_block' , '' , '' , '' , '' , '' , '' , 'stone' , 'brown_block' , 'brown_block'],
 	['' , '' , '' , '' , '' , '' , '' , '' , '' , '' , '' , '' , 'stone' , '' , ''],
 	['' , '' , '' , '' , '' , '' , '' , 'coinbox' , '' , '' , '' , '' , 'stone' , '' , ''],
@@ -1642,7 +1642,7 @@
 	['' , 'mushroombox' , '' , '' , '' , 'brown_block' , 'coin' , '' , '' , '' , '' , 'greenturtle' , 'grass_top' , 'soil' , 'soil'],
 	['' , '' , '' , '' , '' , 'brown_block' , 'coin' , '' , '' , '' , '' , 'bush_left' , 'grass_top' , 'soil' , 'soil'],
 	['' , '' , '' , '' , '' , 'brown_block' , 'coin' , '' , '' , '' , '' , 'bush_middle' , 'grass_top' , 'soil' , 'soil'],
-	['' , '' , '' , 'mario' , 'brown_block' , '' , '' , '' , '' , '' , '' , 'bush_right' , 'grass_top' , 'soil' , 'soil'],
+	['' , '' , '' , '' , 'brown_block' , '' , '' , '' , '' , '' , '' , 'bush_right' , 'grass_top' , 'soil' , 'soil'],
 	['' , '' , '' , '' , '' , '' , '' , '' , '' , '' , '' , '' , 'grass_top' , 'soil' , 'soil'],
 	['' , '' , '' , '' , '' , '' , '' , '' , '' , '' , '' , '' , 'grass_top' , 'soil' , 'soil'],
 	['' , '' , '' , '' , '' , '' , '' , '' , '' , '' , '' , '' , 'grass_top' , 'soil' , 'soil'],
